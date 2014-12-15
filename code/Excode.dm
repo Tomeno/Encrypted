@@ -83,6 +83,9 @@ excode
 					if("getenv")
 						if(params.len == 3)
 							code[num2text(code.len+1)] = new /ex_command/ex_getenv(params[2], params[3])
+					if("args")
+						if(params.len == 2)
+							code[num2text(code.len+1)] = new /ex_command/ex_args(params[2])
 
 			file.code = code
 
@@ -554,3 +557,16 @@ ex_command
 			src.var_2 = var_2
 		execute()
 			master.var_list[var_1] = parse_var(var_2)
+
+	ex_args
+		var/var_1
+		New(var/var_1)
+			src.var_1 = var_1
+		execute()
+			var/text
+			for(var/A in master.var_list["arg"])
+				if(A != "1")
+					text += master.var_list["arg"][A]
+					text += " "
+			text = copytext(text,1,lentext(text))
+			master.var_list[var_1] = text
