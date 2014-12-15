@@ -1,0 +1,44 @@
+// DM Environment file for Encrypted.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "icons"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include <deadron\texthandling\TextHandling.dme>
+#include <shadowdarke\maptext\MapText.dme>
+#include "code\Admin.dm"
+#include "code\antenna.dm"
+#include "code\computer.dm"
+#include "code\debug.dm"
+#include "code\door.dm"
+#include "code\Excode.dm"
+#include "code\Filesystem.dm"
+#include "code\GPS.dm"
+#include "code\laser.dm"
+#include "code\mob.dm"
+#include "code\obj.dm"
+#include "code\Reference.dm"
+#include "code\router.dm"
+#include "code\Shell.dm"
+#include "code\signs.dm"
+#include "code\SystemFiles.dm"
+#include "code\Task.dm"
+#include "code\Testing.dm"
+#include "code\turf.dm"
+#include "code\wire.dm"
+#include "code\wirecutters.dm"
+#include "code\world.dm"
+#include "maps\Terminal room.dmm"
+#include "skin\skin.dmf"
+// END_INCLUDE
+

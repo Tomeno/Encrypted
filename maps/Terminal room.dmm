@@ -1,0 +1,69 @@
+"a" = (/turf/wall/metal,/area)
+"b" = (/obj/electronic/router,/turf/floor/tile,/area)
+"c" = (/obj/electronic/computer,/turf/floor/tile,/area)
+"d" = (/turf/floor/tile,/area)
+"e" = (/obj/electronic/antenna,/turf/floor/tile,/area)
+"f" = (/obj/electronic/computer/signal/robot,/turf/floor/tile,/area)
+"g" = (/obj/door{owner = "w12w"},/turf/floor/tile,/area)
+"h" = (/obj/sign{desc = ""; info = "W12W's Lab"},/turf/wall/metal,/area)
+"i" = (/obj/sign{info = "Galdor's Lab"},/turf/wall/metal,/area)
+"j" = (/obj/door{owner = "capitainegaldor"},/turf/floor/tile,/area)
+"k" = (/obj/door{owner = "tomeno"},/turf/floor/tile,/area)
+"l" = (/obj/sign{info = "Tomeno's Lab"},/turf/wall/metal,/area)
+"m" = (/obj/sign{info = "Lcooper's Lab"},/turf/wall/metal,/area)
+"n" = (/obj/door{owner = "lcooper"},/turf/floor/tile,/area)
+"o" = (/turf/floor/ctile,/area)
+"p" = (/obj/door,/turf/floor/tile,/area)
+"q" = (/obj/sign,/turf/wall/metal,/area)
+"r" = (/obj/sign{info = "Tarimos's Lab"},/turf/wall/metal,/area)
+"s" = (/obj/door{owner = "tarimos"},/turf/floor/tile,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abbbcccccaaabbbcccccaacccccbbbaaacccccbbba
+addddddddaaaddddddddaaddddddddaaadddddddda
+addddddddaaaddddddddaaddddddddaaadddddddda
+addddddddaaaddddddddaaddddddddaaadddddddda
+aeddddfffaaafffddddeaaeddddfffaaafffddddea
+aagaahaaaaaaaaiaajaaaaaakaalaaaaaaaamaanaa
+adddddddddddddddddddddddddddddddddddddddda
+adddddddddddddddddddddddddddddddddddddddda
+adddddddddddddddddddddddddddddddddddddddda
+adddaaadddaaaaaaaaaaaaaaaaaaaaaadddaaaddda
+adddadddddbcccccedddaadddecccccbdddddaddda
+adddadddddddddddddddaadddddddddddddddaddda
+adddddddddbcccccedddaadddecccccbddddddddda
+adddddddddddddddddddaaddddddddddddddddddda
+adddddddddbcccccedddaadddecccccbddddddddda
+adddadddddddddddddddaadddddddddddddddaddda
+adddadddddbcccccedddaadddecccccbdddddaddda
+adddaddddddddddddddddddddddddddddddddaddda
+adddadddddbccccceddddddddecccccbdddddaddda
+adddaddddddddddddddddddddddddddddddddaddda
+adddadddddddddddddaaooaadddddddddddddaddda
+adddaddddddfffffddaooooaddfffffddddddaddda
+adddaddddddaaaaaddooooooddaaaaaddddddaddda
+adddaddddddfffffddaooooaddfffffddddddaddda
+adddadddddddddddddaaooaadddddddddddddaddda
+adddaddddddddddddddddddddddddddddddddaddda
+adddadddddbccccceddddddddecccccbdddddaddda
+adddaddddddddddddddddddddddddddddddddaddda
+adddadddddbcccccedddaadddecccccbdddddaddda
+adddadddddddddddddddaadddddddddddddddaddda
+adddddddddbcccccedddaadddecccccbdddddaddda
+adddddddddddddddddddaaddddddddddddddddddda
+adddddddddbcccccedddaadddecccccbddddddddda
+adddadddddddddddddddaaddddddddddddddddddda
+adddadddddbcccccedddaadddecccccbdddddaddda
+adddaaadddaaaaaaaaaaaaaaaaaaaaaadddaaaddda
+adddddddddddddddddddddddddddddddddddddddda
+adddddddddddddddddddddddddddddddddddddddda
+adddddddddddddddddddddddddddddddddddddddda
+aapaaqaaaapaaqaaaapaaqaaaapaaqaaaaaaraasaa
+aedddfffaedddfffaedddfffaedddfffafffddddea
+adddddddadddddddadddddddadddddddadddddddda
+adddddddadddddddadddddddadddddddadddddddda
+adddddddadddddddadddddddadddddddadddddddda
+abbbccccabbbccccabbbccccabbbccccacccccbbba
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

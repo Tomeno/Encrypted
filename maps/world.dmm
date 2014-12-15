@@ -1,0 +1,33 @@
+"a" = (/obj/electronic/computer/signal/robot,/turf/floor/tile,/area)
+"b" = (/turf/wall/metal,/area)
+"c" = (/obj/electronic/router,/turf/floor/tile,/area)
+"d" = (/turf/floor/tile,/area)
+"e" = (/obj/door{code = "dnetdoorpassword"; owner = "dever"},/turf/floor/tile,/area)
+"f" = (/obj/electronic/computer,/turf/floor/tile,/area)
+"g" = (/obj/electronic/antenna,/turf/floor/tile,/area)
+"h" = (/obj/door{code = "lecaptain"; desc = ""; owner = "lcooper"},/turf/floor/tile,/area)
+"i" = (/obj/door{code = "myownicon"; owner = "w12w"},/turf/floor/tile,/area)
+"j" = (/obj/door{code = "robotsftw"; owner = "tomeno"},/turf/floor/tile,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaabbbbbbbbb
+cccccddddddefffffffb
+dddddddddddbddddddab
+dddddddddddbddddddgb
+cffffgdddddbcccccccb
+dddddddddddbfffffffb
+dddddddddddhddddddab
+dddddddddddbddddddgb
+dddddddddddbcccccccb
+cffffgdddddbbbbbbbbb
+dddddddddddbfffffffb
+dddddddddddiddddddab
+dddddddddddbddddddgb
+dddddddddddbcccccccb
+cffffgdddddbbbbbbbbb
+dddddddddddbfffffffb
+dddddddddddjddddddab
+cccccddddddbddddddgb
+dddddddddddbcccccccb
+dddddddddddbbbbbbbbb
+"}

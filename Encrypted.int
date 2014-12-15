@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+LAST_COMPILE_TIME: 1418661254
+DIR: code icons maps skin Lib External 
+AUTO_FILE_DIR: ON
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 507.1252
+WINDOW: code\door.dm;code\debug.dm;code\Admin.dm;code\world.dm;code\obj.dm;icons\robot.dmi;icons\laptop.dmi;code\turf.dm;code\computer.dm;icons\packet.dmi;icons\480x480.dmi;icons\misc.dmi;icons\objects.dmi;code\Excode.dm;code\Shell.dm
+FILE: code\computer.dm
+*/
+// END_INTERNALS
