@@ -113,8 +113,16 @@ echo_var;"- undo_l:undo_index = \[tmp\]
 goto;wipe
 id;end
 		"}
-	}
+	},
 
+	/system_file {
+		name = "compiler.exe"
+		ext = "script"
+		path = "/bin"
+		data = {"
+shell;"compile \[arg:"1\]
+		"}
+	}
 )
 
 system_file

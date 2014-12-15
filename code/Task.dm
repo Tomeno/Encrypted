@@ -12,6 +12,8 @@ task
 		src.var_list["arg"] = l
 		src.var_list["input"] = list()
 		src.var_list["null"] = null
+		src.var_list["semi"] = ";"
+		src.var_list["newline"] = "\n"
 
 	Del()
 		master.tasks -= src

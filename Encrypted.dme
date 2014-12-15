@@ -27,6 +27,7 @@
 #include "code\laser.dm"
 #include "code\mob.dm"
 #include "code\obj.dm"
+#include "code\procs.dm"
 #include "code\Reference.dm"
 #include "code\router.dm"
 #include "code\Shell.dm"

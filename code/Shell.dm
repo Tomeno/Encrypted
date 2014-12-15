@@ -423,7 +423,7 @@ command
 		execute(var/list/args, var/obj/electronic/computer/master)
 			var/file/f = master.fs.fp2f(args[1])
 			if(f)
-				f.data += dd_list2text(args.Copy(2), " ")
+				f.data += replace_placeholders(dd_list2text(args.Copy(2), " "))
 			else
 				master.show("ERROR: [args[1]] does not exist.")
 
