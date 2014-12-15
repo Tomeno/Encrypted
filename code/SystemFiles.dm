@@ -117,10 +117,10 @@ id;end
 
 	/system_file {
 		name = "compiler.exe"
-		ext = "script"
+		ext = "excode"
 		path = "/bin"
 		data = {"
-shell;"compile \[arg:"1\]
+shell;"compile \[arg:"2\]
 		"}
 	}
 )
